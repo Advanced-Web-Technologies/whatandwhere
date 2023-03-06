@@ -2,6 +2,7 @@ Project name:
     whatandwhere.com
 
 Team members:
+
     Michal Natonek
     Atahan Karagoz
     Szymon Misztal
