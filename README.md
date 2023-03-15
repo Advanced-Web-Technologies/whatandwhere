@@ -32,7 +32,11 @@ Our app is a user-friendly platform designed to simplify the process of organizi
 ### Repository:
 - Github
 
+## DB Schema:
+https://lucid.app/lucidchart/88eccabc-1636-4ed5-b9e3-e8a7d8a594c7/edit?viewport_loc=-477%2C-96%2C2944%2C1528%2C0_0&invitationId=inv_e152ecfd-d396-4c20-a902-f035ce5bf1e6
+
 ## UC Diagram:
 https://lucid.app/lucidchart/fb3fbde2-8563-4a36-8521-fc64aa5d1667/edit?viewport_loc=-308%2C-115%2C3201%2C1662%2C0_0&invitationId=inv_d5f1b587-40e8-4050-b785-852fafd5fd72
 
 ## UC Description:
+
