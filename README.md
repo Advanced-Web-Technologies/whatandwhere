@@ -31,3 +31,6 @@ Our app is a user-friendly platform designed to simplify the process of organizi
 
 ### Repository:
 - Github
+
+## DB Schema:
+https://lucid.app/lucidchart/88eccabc-1636-4ed5-b9e3-e8a7d8a594c7/edit?viewport_loc=-477%2C-96%2C2944%2C1528%2C0_0&invitationId=inv_e152ecfd-d396-4c20-a902-f035ce5bf1e6
