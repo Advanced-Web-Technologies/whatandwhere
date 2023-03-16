@@ -39,4 +39,20 @@ https://lucid.app/lucidchart/88eccabc-1636-4ed5-b9e3-e8a7d8a594c7/edit?viewport_
 https://lucid.app/lucidchart/fb3fbde2-8563-4a36-8521-fc64aa5d1667/edit?viewport_loc=-308%2C-115%2C3201%2C1662%2C0_0&invitationId=inv_d5f1b587-40e8-4050-b785-852fafd5fd72
 
 ## UC Description:
+- New users can register to our application and registration process is supported by authentication service
+- Registered users can log in to our application, the credentials correctness is checked by authentication service 
+- The administrator can log in to our application, the credentials correctness is checked by authentication service 
+- Registered users can browse list of events
+- Registered users can browse map of events
+- Registered users can apply filters to the map  that is supported by the database
+- Registered users can create pins on the map
+- The pin can be an event or parade of the event
+- In case of an event that is bigger than 100, registered users can apply for verification of the event
+- Administrators can verify events
+- Registered users can update information about their events
+- Registered users can find more detailed information about the events
+- Registered users can comment and/or score the posted events
+
+
+
 
