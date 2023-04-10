@@ -1,22 +1,10 @@
-const React = require('react');
-const ReactDOM = require('react-dom');
-
-class App extends React.Component {
-
-    constructor(props) {
-        super(props);
-    }
-
-    render() {
-        return (
-            <div>
-                Hello from react!
-            </div>
-        )
-    }
-}
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
 ReactDOM.render(
-    <App />,
-    document.getElementById('react')
-)
+    <React.StrictMode>
+        <App />
+    </React.StrictMode>,
+    document.getElementById('root')
+);
